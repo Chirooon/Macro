@@ -23,4 +23,8 @@ You need python if you dont have it [download it here](https://www.python.org/do
 
 I used python 3.10 if you want to use this [download it here](https://www.python.org/downloads/release/python-3100/)
 
-# For help and requests [![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
+# For help and requests
+
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
+
+# I hope you have a goood day!
