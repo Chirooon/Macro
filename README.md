@@ -8,7 +8,7 @@ A macro with a simple UI that records and saves keyboard presses. You can then p
 Download  Markro.py 
 Open it
 
-#IMPORTRANT
+# IMPORTRANT
 You need python if you dont have it [download it here](https://www.python.org/downloads/)
 
 
