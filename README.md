@@ -16,7 +16,7 @@ Press Start Recording then press the keyboard buttons that you wanna save.
 
 If your finished press Esc or go back into the markro app by mouse and klick Stop Recording.
 
-Then a explorer should pop save the text file wherever you want and save as .txt file e.g 1.txt.
+Then a explorer should pop up save the text file wherever you want and save as .txt file e.g 1.txt.
 
 # IMPORTRANT
 You need python if you dont have it [download it here](https://www.python.org/downloads/)
